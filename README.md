@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website — built using React and hosted on GitHub Pages.  
 I specialize in SAP ABAP, ABAP on HANA, RAP, BTP, and Fiori — and this site highlights my skills, experience, and projects.
 
-🔗 **Live Portfolio:** [View Website](https://purum-mahesh.github.io/SAP_Portfolio)  
+🔗 **Live Portfolio:** [View Website](https://purum-mahesh.github.io/SAP_Portfolio/)  
 
 ---
 
