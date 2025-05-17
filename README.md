@@ -3,8 +3,7 @@
 Welcome to my personal portfolio website — built using React and hosted on GitHub Pages.  
 I specialize in SAP ABAP, ABAP on HANA, RAP, BTP, and Fiori — and this site highlights my skills, experience, and projects.
 
-🔗 **Live Portfolio:** [View Website](https://your-username.github.io/developerFolio)  
-📄 **Resume:** [View Resume](https://your-resume-link.com)
+🔗 **Live Portfolio:** [View Website](https://purum-mahesh.github.io/SAP_Portfolio)  
 
 ---
 
@@ -25,9 +24,9 @@ I am an SAP Developer passionate about building real-time enterprise solutions u
 
 ## 📬 Contact
 
-- 📧 Email: your.email@example.com
+- 📧 Email: maheshabap25@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [github.com/your-username](https://github.com/your-username)
+- 🐙 GitHub: [github.com/your-username](https://github.com/purum-mahesh)
 
 ---
 
